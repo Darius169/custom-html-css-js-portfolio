@@ -311,6 +311,10 @@ gap: 1rem;
     text-align: center;
 }
 
+.details-container h3 {
+    margin-bottom: 10px;
+}
+
 .section-container {
     gap: 4rem;
     height: 80%;
