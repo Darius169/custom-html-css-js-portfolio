@@ -1,0 +1,7 @@
+1. Sticky Header - attach nav to top for navigation
+- like this: https://www.youtube.com/watch?v=w9kV0uW1dmI&list=PLxT3BNeh3_uhEOdsjK2k6_VzSfpE2F0nl&index=2
+
+
+2. Add animations - add animation for each section
+- like this: https://www.youtube.com/watch?v=jVD9ZmWxhX8&list=PLxT3BNeh3_uhEOdsjK2k6_VzSfpE2F0nl&index=3
+- note, iconscout
