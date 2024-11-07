@@ -199,6 +199,18 @@ section {
     margin-bottom: 1rem;
 }
 
+img.profile_picture-one{
+    width: 275px;
+    height: 275px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+img.profile_picture-one {
+    align-self: center;
+}
+
+
 
 .title {
     font-size: 3rem;
