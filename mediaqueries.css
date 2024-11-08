@@ -1,6 +1,6 @@
 @media screen and (max-width: 1400px) {
   #profile {
-    height: 83vh;
+    height: 80vh;
     margin-bottom: 6rem;
   }
 
@@ -101,6 +101,19 @@
     text-align: center;
   }
 
+
+  img.profile_picture-one{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+#profile .section__text {
+  margin-top: 4rem;
+  }
+
   .section__pic-container {
     width: auto;
     height: 46vw;
@@ -118,5 +131,10 @@
   .text-container {
     text-align: justify;
   }
+
+
+  .menu-links a {
+    font-size: 1.3rem;
+}
 
 }
