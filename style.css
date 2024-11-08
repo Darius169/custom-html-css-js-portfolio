@@ -403,6 +403,8 @@ article .icon{
 .project-btn {
     color: black;
     border-color:rgb(53, 53, 53);
+    cursor: not-allowed;
+    pointer-events: none;
 }
 
 
